@@ -3,3 +3,4 @@
 ./apt-get-install.sh
 ./ruby.sh
 ./npm-global.sh
+./xubuntu.sh
