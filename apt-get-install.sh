@@ -1,8 +1,7 @@
 #!/bin/bash
 
 # system
-sudo apt-get install aptitude keepass2
-
+sudo apt-get install aptitude keepass2p7zip-full
 # basic dev text
 sudo apt-get install sublime-text git
 
