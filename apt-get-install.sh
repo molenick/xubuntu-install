@@ -1,10 +1,9 @@
 #!/bin/bash
 
 # system
-sudo apt-get install aptitude keepass2p7zip-full
+sudo apt-get install aptitude keepass2p7zip-full whois
 # basic dev text
 sudo apt-get install sublime-text git
-
 
 # Browser
 sudo apt-get install google-chrome-stable epiphany-browser
