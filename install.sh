@@ -4,3 +4,4 @@
 ./ruby.sh
 ./npm-global.sh
 ./xubuntu.sh
+./erlang.sh
